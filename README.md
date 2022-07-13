@@ -12,5 +12,8 @@
 * Jeśli na planszy zostanie ustawione przynajmniej 5 kulek w cięgłej linii (pion, poziom, skos), to za każdą kulkę zostaje przyznany 1 punkt, a kolory znikają z planszy.
 * Cel gry: jak największa liczba zdobytych punktów.
 * Gra kończy się, przy braku możliwości kolejnej tury.
+* Uruchomienie gry:
+	make
+	./main
 
 PS: gra nie jest najładniej/najczytelniej napisana... jak widać warto podzielić kod na kilka plików.
