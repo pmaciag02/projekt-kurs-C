@@ -16,4 +16,4 @@
 	make
 	./main
 
-PS: gra nie jest najładniej/najczytelniej napisana... jak widać warto podzielić kod na kilka plików.
+PS: gra nie jest najładniej/najczytelniej napisana... jak widać warto podzielić kod na kilka plików :)
